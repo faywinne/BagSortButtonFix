@@ -1,6 +1,6 @@
 # Bag Sort Button Fix
 
-WoW Classic Forever (interface 16001).
+WoW Forever Beta (interface 16001).
 
 Since build 1.60.1.70291 the sort button on the combined backpack is hidden behind another element in the top right corner, so you can't see or click it.
 
